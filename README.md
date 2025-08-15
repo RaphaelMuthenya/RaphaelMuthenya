@@ -9,7 +9,7 @@ I'm a data enthusiast on a mission to make sense of the world — one dataset at
 
 ---
 <p align="center">
-  <img src="[https://your-image-url.com/image.png"](https://imgs.search.brave.com/faKS5R3Fvyv7z722n5XgsWVU8TwC7l1loqp8Xd0LDFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzA2LzgwLzcz/LzM2MF9GXzExMDY4/MDczMzRfdzMydzRI/cGxxR0EzQkp3cEVW/UTFDdGo5V0VZemk4/bWYuanBn) alt="Descriptive Alt Text" width="500"/>
+ (https://imgs.search.brave.com/faKS5R3Fvyv7z722n5XgsWVU8TwC7l1loqp8Xd0LDFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzA2LzgwLzcz/LzM2MF9GXzExMDY4/MDczMzRfdzMydzRI/cGxxR0EzQkp3cEVW/UTFDdGo5V0VZemk4/bWYuanBn) alt="Descriptive Alt Text" width="500"/>
 </p>
 
 🚀 **Tech Stack**
