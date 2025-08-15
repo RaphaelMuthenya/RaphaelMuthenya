@@ -3,18 +3,18 @@
 
 ---
 
-🌟 **About Me**
-
+🌟 **About Me**  
 I'm a data enthusiast on a mission to make sense of the world — one dataset at a time. Whether I'm wrangling messy data, visualizing trends, or building machine learning models, I'm in my element when I'm knee-deep in code and curiosity.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding GIF"/>
+</div>
+
 ---
-<p align="center">
- (https://imgs.search.brave.com/faKS5R3Fvyv7z722n5XgsWVU8TwC7l1loqp8Xd0LDFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzA2LzgwLzcz/LzM2MF9GXzExMDY4/MDczMzRfdzMydzRI/cGxxR0EzQkp3cEVW/UTFDdGo5V0VZemk4/bWYuanBn) alt="Descriptive Alt Text" width="500"/>
-</p>
 
 🚀 **Tech Stack**
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -24,14 +24,34 @@ I'm a data enthusiast on a mission to make sense of the world — one dataset at
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+</div>
+
+💡 **Specialized Skills**
+- 🗣 **Natural Language Processing (NLP)** – Text classification, sentiment analysis, topic modeling
+- 🎯 **Recommendation Systems** – Collaborative filtering, content-based filtering, hybrid models
 
 ---
 
-📊 **Current Projects**
-- **📈 Predicting the Unpredictable** – building models that actually make sense (and cents)
-- **📉 From Noise to Insight** – cleaning chaotic data for crisp conclusions
-- **🧠 Brain Meets Code** – experimenting with neural networks and real-world problems
+📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelMuthenya&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelMuthenya&theme=tokyonight" alt="GitHub streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelMuthenya&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+📂 **Recent Projects & Activity**
+
+<div align="center">
+  <a href="https://github.com/RaphaelMuthenya">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelMuthenya&theme=react-dark" alt="Activity Graph"/>
+  </a>
+</div>
 
 ---
 
@@ -44,7 +64,7 @@ I'm a data enthusiast on a mission to make sense of the world — one dataset at
 
 📬 **Let’s Connect**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/raphael-muthenya/)
-- 📧 [Email Me](vcmuthenya@gmail.com)
+- 📧 [Email Me](mailto:vcmuthenya@gmail.com)
 
 ---
 
