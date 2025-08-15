@@ -29,6 +29,8 @@ I'm a data enthusiast on a mission to make sense of the world — one dataset at
 💡 **Specialized Skills**
 - 🗣 **Natural Language Processing (NLP)** – Text classification, sentiment analysis, topic modeling
 - 🎯 **Recommendation Systems** – Collaborative filtering, content-based filtering, hybrid models
+- 🤖 **Machine Learning Models** – Classification, regression, clustering, time series forecasting
+- 🔌 **API Integration** – REST APIs, third-party data sources, authentication
 
 ---
 
@@ -49,23 +51,4 @@ I'm a data enthusiast on a mission to make sense of the world — one dataset at
 
 <div align="center">
   <a href="https://github.com/RaphaelMuthenya">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelMuthenya&theme=react-dark" alt="Activity Graph"/>
-  </a>
-</div>
-
----
-
-🌱 **Currently Learning**
-- Model deployment with Docker & Streamlit
-- Advanced SQL for data wrangling
-- Deep learning foundations
-
----
-
-📬 **Let’s Connect**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raphael-muthenya/)
-- 📧 [Email Me](mailto:vcmuthenya@gmail.com)
-
----
-
-🧠 *"In data we trust, in insights we act."*
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelMuthenya&theme=react-
